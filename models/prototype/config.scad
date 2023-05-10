@@ -13,6 +13,6 @@ arm_h = 10;
 connector_margin = 0.05;
 
 // Hub
-hub_r = 40;
+hub_r = 30;
 hub_w = 20;
 hub_h = 15;

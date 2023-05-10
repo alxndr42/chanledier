@@ -27,8 +27,8 @@ difference() {
 }
 
 // Loops
-for (i=[0:360/6:359]) {
-    rotate([0, 0, i])
+for (i=[0:360/4:359]) {
+    rotate([0, 0, 45 + i])
         translate([hub_r - hub_w*0.75, 0, hub_h/2])
         loop();
 }
