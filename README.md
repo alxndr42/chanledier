@@ -2,6 +2,8 @@
 
 A [WLED][]-powered chandelier. Customizable in [OpenSCAD][].
 
+![Photo of an eight armed ChanLEDier in rainbow colors](chanledier.jpg "🏳️‍🌈❤️")
+
 [openscad]: https://openscad.org/
 [wled]: https://kno.wled.ge/
 
